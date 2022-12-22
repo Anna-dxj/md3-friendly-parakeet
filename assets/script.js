@@ -155,4 +155,4 @@ function generatePassword () {
     //all no --> "Please select at least one of the choices" then reruns function
     alert("Password must contain at least one of the following for a return: uppercase letters, lowercase letters, numbers, or special characters.");
   }
-};
+}; 
