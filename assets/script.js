@@ -156,3 +156,5 @@ function generatePassword () {
     alert("Password must contain at least one of the following for a return: uppercase letters, lowercase letters, numbers, or special characters.");
   }
 }; 
+
+//Make code more dry for loops --> separate funciton??
