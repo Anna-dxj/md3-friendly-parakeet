@@ -21,7 +21,7 @@ function generatePassword () {
     if (chosenLength<8 || chosenLength>128){
       alert("Please choose a password length of 8 to 128");
       return; 
-    } 
+    };
     //user choices
     var chosenUpper = window.confirm("Would you like to use uppercase letters?");
     var chosenLower = window.confirm("Would you like to use lowercase letters?");
