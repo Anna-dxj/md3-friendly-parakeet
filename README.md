@@ -28,7 +28,7 @@ N/A
 
 ## Usage
 
-To navigate to this webpage, please [click here](https://anna-dxj.github.io/md2-friendly-parakeet/). The website should appear like the screenshot below: 
+To navigate to this webpage, please [click here](https://anna-dxj.github.io/md3-friendly-parakeet/). The website should appear like the screenshot below: 
 
 ![Screenshot of form](assets/images/form.png)
 
